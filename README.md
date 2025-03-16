@@ -7,7 +7,7 @@ Effects are for Effekseer 1.7
 # Credits
 
 | Effect | Desginer | Version |
-----|---- 
+----|---- |---- 
 | ef_fire01 | KTK_kumamoto | 1.7 |
 | ef_fire02 | KTK_kumamoto | 1.7 |
 | ef_fire03 | KTK_kumamoto | 1.7 |
